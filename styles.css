@@ -1,7 +1,8 @@
 body {
     color: white;
     background-color: black;
-    margin: 0px;
+    margin: 0px; 
+    font-family: "Chakra Petch", sans-serif;
 }
 
 header {
@@ -21,4 +22,12 @@ section {
 
 div {
     margin-right: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
